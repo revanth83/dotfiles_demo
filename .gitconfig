@@ -1,0 +1,7 @@
+[user]
+	name = revanthgarlapati
+	email = revanth.garlapati@gmail.com
+[push]
+	default = simple
+[core]
+        editor = nano
